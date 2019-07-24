@@ -59,10 +59,3 @@ buck-out/
 /ios/Pods/
 
 _tests_
-App.js
-app.json
-babel.config.js
-index.js
-metro.config.js
-package.json
-yarn.lock
